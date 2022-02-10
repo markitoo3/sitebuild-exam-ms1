@@ -34,9 +34,6 @@
 
 /* CSS Reset */
 
-body {
-    font-family: 'Poppins', sans-serif;
-}
 
 section {
     position: relative;
@@ -65,6 +62,7 @@ section {
     border-radius: 100%;
     background-color: #242d38;
 
+    font-family: 'Poppins', sans-serif;
     font-size: 24px;
     font-weight: 300;
     letter-spacing: 0.2em;
@@ -80,6 +78,7 @@ section {
     height: 60px;
     border: 6px solid #242d38;
 
+    font-family: 'Poppins', sans-serif;
     font-size: 21px;
     font-weight: bold;
     letter-spacing: 0.2em;
@@ -97,6 +96,7 @@ section {
     background-color: #4343f9;
     box-shadow: 0 0 20px black;
 
+    font-family: 'Poppins', sans-serif;
     font-size: 21px;
     font-weight: 400;
     color: #ffffff;
